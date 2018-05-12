@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32373'
     url: http://www.gutenberg.org/2009/agents/32373
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26970#---
 gutenberg_issued: '2008-10-20'
 gutenberg_type: Text
 identifiers:
